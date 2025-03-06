@@ -22,7 +22,6 @@ public class UserDto {
 
     private String userImagePath;
 
-
     public String getName() {
         return name;
     }
